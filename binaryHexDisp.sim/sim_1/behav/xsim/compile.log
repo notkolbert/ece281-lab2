@@ -1,2 +1,2 @@
-INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/C27Joshua.Brown/ece281/ece281-lab2/src/top_basys3.vhd" into library xil_defaultlib
-INFO: [VRFC 10-3107] analyzing entity 'top_basys3'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/C27Joshua.Brown/ece281/ece281-lab2/src/sevenseg_decoder_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'sevenseg_decoder_tb'
